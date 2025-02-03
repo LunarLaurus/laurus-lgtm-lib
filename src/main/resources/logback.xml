@@ -1,0 +1,11 @@
+<configuration>
+    <appender name="LOKI" class="ch.qos.logback.core.ConsoleAppender">
+        <encoder>
+            <pattern>{"time":"%d{ISO8601}", "level":"%p", "message":"%m", "logger":"%logger{36}"}%n</pattern>
+        </encoder>
+    </appender>
+
+    <root level="INFO">
+        <appender-ref ref="LOKI"/>
+    </root>
+</configuration>
