@@ -37,6 +37,14 @@
 		</dependencies>
 	</dependencyManagement>
 
+	<!-- GitHub Package Repository for Deployment -->
+	<distributionManagement>
+		<repository>
+			<id>github</id>
+			<url>https://maven.pkg.github.com/lunarlaurus/laurus-lgtm-lib</url>
+		</repository>
+	</distributionManagement>
+
 	<dependencies>
 		<!-- OpenTelemetry Dependencies -->
 		<dependency>
