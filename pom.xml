@@ -18,7 +18,7 @@
 		<otel-instr.version>2.16.0</otel-instr.version>
 		<otel-instr-alpha.version>2.12.0-alpha</otel-instr-alpha.version>
 
-		<micrometer.version>1.15.0</micrometer.version>
+		<micrometer.version>1.15.1</micrometer.version>
 		<slf4j.version>2.0.17</slf4j.version>
 		<logback.version>1.5.18</logback.version>
 		<spring.boot.version>3.5.0</spring.boot.version>
