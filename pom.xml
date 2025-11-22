@@ -21,7 +21,7 @@
 		<micrometer.version>1.15.5</micrometer.version>
 		<slf4j.version>2.0.17</slf4j.version>
 		<logback.version>1.5.20</logback.version>
-		<spring.boot.version>3.5.6</spring.boot.version>
+		<spring.boot.version>3.5.7</spring.boot.version>
 		<lombok.version>1.18.42</lombok.version>
 	</properties>
 
