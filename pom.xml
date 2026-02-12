@@ -5,7 +5,7 @@
 
 	<groupId>net.laurus</groupId>
 	<artifactId>lgtm-lib</artifactId>
-	<version>0.0.81</version>
+	<version>0.0.82</version>
 	<packaging>jar</packaging>
 
 	<properties>
