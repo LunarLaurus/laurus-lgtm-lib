@@ -15,7 +15,7 @@
 		<maven.compiler.release>17</maven.compiler.release>
 
 		<otel.version>1.58.0</otel.version>
-		<otel-instr.version>2.23.0</otel-instr.version>
+		<otel-instr.version>2.24.0</otel-instr.version>
 		<otel-instr-alpha.version>2.12.0-alpha</otel-instr-alpha.version>
 
 		<micrometer.version>1.16.2</micrometer.version>
