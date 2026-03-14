@@ -14,7 +14,7 @@
 		<maven.compiler.target>17</maven.compiler.target>
 		<maven.compiler.release>17</maven.compiler.release>
 
-		<otel.version>1.60.0</otel.version>
+		<otel.version>1.60.1</otel.version>
 		<otel-instr.version>2.25.0</otel-instr.version>
 		<otel-instr-alpha.version>2.12.0-alpha</otel-instr-alpha.version>
 
@@ -22,7 +22,7 @@
 		<slf4j.version>2.0.17</slf4j.version>
 		<logback.version>1.5.32</logback.version>
 		<spring.boot.version>3.5.11</spring.boot.version>
-		<lombok.version>1.18.42</lombok.version>
+		<lombok.version>1.18.44</lombok.version>
 	</properties>
 
 	<dependencyManagement>
